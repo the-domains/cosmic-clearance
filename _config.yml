@@ -1,4 +1,4 @@
-typography_spectrum: 0.3415200400631875
+typography_spectrum: 0.9535022133495659
 color:
   brandStrength: 0.569336321670562
   lightness: 0.3892696432303637
@@ -10,7 +10,9 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.5833205643575639
+layout_spectrum: 0.44642133079469204
 name: Cosmic Clearance
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef1de1a8-b21a-4d63-a228-90bcf133a90a.jpg
 title: Cosmic Clearance
 description: Welcome to the Universe
